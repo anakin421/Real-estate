@@ -25,7 +25,7 @@ SECRET_KEY = '52@kqd%8f0bb&8)56%m1*5(#$-21$ty557sf4y)o%h&hld#27%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['real-estate-abhi-staging.herokuapp.com/','127.0.0.1','real-estate-abhi.herokuapp.com/']
 
 
 # Application definition
